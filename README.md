@@ -99,3 +99,9 @@ The application will be available at: `http://localhost:3000`
 ## Need Help?
 
 If you encounter any issues, feel free to reach out and start a discussion via the Slack workspace.
+
+## Live Application (Cloud Run)
+https://capstone-webapp-779717757562.asia-south1.run.app
+
+## API Gateway
+http://35.200.139.4
