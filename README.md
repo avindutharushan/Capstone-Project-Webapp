@@ -105,3 +105,8 @@ https://capstone-webapp-779717757562.asia-south1.run.app
 
 ## API Gateway
 http://35.200.139.4
+
+## Student Information
+- Student Name: Avindu Tharushan
+- GCP Project ID: project-bfaec9d7-61a0-45c1-823
+- Live Application: https://capstone-webapp-779717757562.asia-south1.run.app
