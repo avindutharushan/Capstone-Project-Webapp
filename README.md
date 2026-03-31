@@ -112,4 +112,5 @@ http://35.200.139.4
 - Student Name: Avindu Tharushan
 - GCP Project ID: project-bfaec9d7-61a0-45c1-823
 - Live Application: http://34.100.220.221:3000/
+
                     https://capstone-webapp-779717757562.asia-south1.run.app
