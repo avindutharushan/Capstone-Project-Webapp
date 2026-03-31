@@ -102,6 +102,7 @@ If you encounter any issues, feel free to reach out and start a discussion via t
 
 ## Live Application (Cloud Run)
 http://34.100.220.221:3000/
+
 https://capstone-webapp-779717757562.asia-south1.run.app
 
 ## API Gateway
